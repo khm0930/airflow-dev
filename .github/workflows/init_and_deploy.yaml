@@ -3,7 +3,7 @@ name: Initialization and Deployment Workflow
 on:
   push:
     branches:
-      - feature_branch
+      - main
 
 jobs:
   initialization:
